@@ -17,7 +17,7 @@
         <nav class="col-sm-4 col-4" id="myScrollspy">
             <ul class="nav nav-pills flex-column">
                 <li class="nav-item">
-                    <a class="nav-link active" href="#section1">Déscription</a>
+                    <a class="nav-link active" href="#section1">Déscriptions</a>
                 </li>
 
                 <li class="nav-item dropdown">
