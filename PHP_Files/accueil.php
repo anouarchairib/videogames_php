@@ -23,7 +23,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Outils utilisé</a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#section21">BOOSTRAP SCROllSPY</a>
+                        <a class="dropdown-item" href="#section21">BOOSTRAP SCROllSPYs</a>
                         <a class="dropdown-item" href="#section22">BOOSTRAP FORMULAIRE INSCRIPTION</a>
                         <a class="dropdown-item" href="#section23">BOOSTRAP DROPDOWN</a>
                         <a class="dropdown-item" href="#section24">BOOSTRAP GRID</a>
